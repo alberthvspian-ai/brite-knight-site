@@ -20,7 +20,7 @@ const features = [
   { icon: ThumbsUp, title: "Satisfaction Guaranteed", text: "Your satisfaction is our top priority." },
 ];
 
-const heroImage = "/images/hero-cleaning.jpg";
+const heroImage = "/images/brite_knight_cleaning_compressed.jpg";
 
 function Logo() {
   return (
